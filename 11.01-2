@@ -1,0 +1,17 @@
+
+/*artfully created by Devasena*/
+body{
+  font-family: Verdana, Arial, sans-serif, Helvetica;
+  font-weight: normal;
+  font-size: 14px;
+  posaition: relative;
+  }
+  h3{
+  font-weight:bold;
+  font-size:24px;
+  }
+  footer{
+  background-color:#326872;
+  color:white;
+  margin-botton:1%
+  }

@@ -1,0 +1,27 @@
+<html>
+
+<head>
+  <title>Ariel's Portfolio</title>
+  <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+
+</head>
+
+<body>
+  <div>
+    <h3>Welcome to my protfolio!</h3>
+    <p align="justify">Currently I am studying at the University of Southampton</p>
+    <h3>My Background</h3>
+    <p align="justify">I am doing my Finance masters</p>
+  </div>
+  <footer>
+    <div>class="five columns"
+      <p>Devasena Inupakutika @ 2016 | All rights preserved
+        <br>Designed and Developed by Devasena
+      </p>
+
+    </div>
+  </footer>
+
+</body>
+
+</html>
